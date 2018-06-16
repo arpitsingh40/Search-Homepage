@@ -1,1 +1,2 @@
 # Search-Homepage
+实在是厌烦了一些充斥着不必要链接的一些主页，于是自己动手写了一个还算实用的主页来自用。我没有设计图标的天赋，图标来自酷安的Pure轻语图标包，[https://www.coolapk.com/apk/me.morirain.dev.iconpack.pure](https://www.coolapk.com/apk/me.morirain.dev.iconpack.pure)
