@@ -4,3 +4,5 @@
 我没有设计图标的天赋，图标来自酷安的<a href="https://www.coolapk.com/apk/me.morirain.dev.iconpack.pure" target="_blank">Pure轻语图标包</a>。
 
 另外不得不说在国内The Great Wall的情况下，百度是肯定要比谷歌方便的，但大熊掌丑的要死。所以把logo换成谷歌的动图，引擎用的却是百度......如果有需要把body字段最后一行改成谷歌就行了。
+# 2018.7.31更新
+更新搜索引擎为必应
